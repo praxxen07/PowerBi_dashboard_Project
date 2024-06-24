@@ -4,10 +4,8 @@
 
 2. Features:
   - Employee Overview: Summary of employee demographics, headcount trends, and geographic distribution.
-  -Recruitment Metrics: Analysis of recruitment funnel, time-to-hire, and candidate sourcing effectiveness.
   -Employee Performance: Metrics on performance reviews, ratings distribution, and talent development.
   -Retention Analysis: Factors influencing turnover rates, retention strategies, and predictive modeling.
-  -HR Cost Analysis: Budget allocation, cost per hire, and ROI of HR initiatives.
 
 3. Covered Topics and Fuctions Performed in this Project:
 - Data Cleaning & Processing in Power BI
