@@ -4,8 +4,8 @@
 
 2. Features:
   - Employee Overview: Summary of employee demographics, headcount trends, and geographic distribution.
-  -Employee Performance: Metrics on performance reviews, ratings distribution, and talent development.
-  -Retention Analysis: Factors influencing turnover rates, retention strategies, and predictive modeling.
+  - Employee Performance: Metrics on performance reviews, ratings distribution, and talent development.
+  - Retention Analysis: Factors influencing turnover rates, retention strategies, and predictive modeling.
 
 3. Covered Topics and Fuctions Performed in this Project:
 - Data Cleaning & Processing in Power BI
